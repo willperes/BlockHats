@@ -1,0 +1,9 @@
+main: me.willperes.BlockHats.Main.BlockHatsMain
+name: BlockHats
+version: 1.0.0
+author: willperes
+api-version: 1.13
+
+commands:
+  hat:
+    description: Use the item you are holding as a hat.
