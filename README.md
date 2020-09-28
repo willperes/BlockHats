@@ -1,4 +1,5 @@
 # BlockHats
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-brightgreen)](https://github.com/willperes/BlockHats/blob/master/LICENSE.md) [![Spigot Page](https://img.shields.io/badge/Spigot-Page-brightgreen)](https://www.spigotmc.org/resources/blockhats.84288/)
 
 ## BlockHats v1.0.0
 
